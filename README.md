@@ -1,5 +1,7 @@
 # 🔥 Structure Fire Performance Predictor
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ali-namin/Composite-Floor-Fire-Predictor/main?urlpath=voila%2Frender%2Finference_notebook.ipynb)
+
 This repository contains the machine learning models and an interactive inference pipeline for predicting the fire performance and damage state of composite flooring systems. 
 
 Utilizing LightGBM (LGBM) classification and regression models, this tool allows researchers and engineers to input specific structural and thermal parameters to instantly predict slab displacement and overall damage states under fire conditions.
