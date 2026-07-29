@@ -1,6 +1,6 @@
 # 🔥 Structure Fire Performance Predictor
 
-Click bellow to see the interactive software:
+Click below to see the interactive software:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ali-namin/Composite-Floor-Fire-Predictor/main?urlpath=voila%2Frender%2Fapp.ipynb)
 
